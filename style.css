@@ -1,0 +1,29 @@
+.home{
+    
+    text-align: center;
+    background-color: lightblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.button{
+    padding: 1px 20px;
+    background-color: pink;
+    
+}
+
+.para{
+    color: red;
+    padding: 12px 10px;
+    line-height: 50px;
+}
+
+.img{
+    height: 200px;
+    width: 200px;
+}
+
+.title{
+    font-size: 50px;
+    color: red;
+}
